@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="3 bug lab" />
+    <orderEntry type="module" module-name="4 triangle inClass" />
+    <orderEntry type="module" module-name="marble solitaire lab" />
+    <orderEntry type="module" module-name="4 in class labs" />
+    <orderEntry type="module" module-name="5 railroad lab" />
+    <orderEntry type="module" module-name="0 summer" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

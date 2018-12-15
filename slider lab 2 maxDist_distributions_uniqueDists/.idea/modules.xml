@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../0 summer/.idea/0 summer.iml" filepath="$PROJECT_DIR$/../../0 summer/.idea/0 summer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../3 bug lab/.idea/3 bug lab.iml" filepath="$PROJECT_DIR$/../../3 bug lab/.idea/3 bug lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../4 in class labs/.idea/4 in class labs.iml" filepath="$PROJECT_DIR$/../../4 in class labs/.idea/4 in class labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../4 triangle inClass/.idea/4 triangle inClass.iml" filepath="$PROJECT_DIR$/../../4 triangle inClass/.idea/4 triangle inClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../5 railroad lab/.idea/5 railroad lab.iml" filepath="$PROJECT_DIR$/../../5 railroad lab/.idea/5 railroad lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../4 in class labs/marble solitaire lab/.idea/marble solitaire lab.iml" filepath="$PROJECT_DIR$/../../4 in class labs/marble solitaire lab/.idea/marble solitaire lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/slider lab 2 maxDist_distributions_uniqueDists.iml" filepath="$PROJECT_DIR$/.idea/slider lab 2 maxDist_distributions_uniqueDists.iml" />
+    </modules>
+  </component>
+</project>

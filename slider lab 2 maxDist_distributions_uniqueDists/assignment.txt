@@ -1,0 +1,27 @@
+The next lab, due F, 21 Sep '18 consists of the following questions.  The part you are to turn for each problem is indicated by the question mark.
+
+1) Implement inversion count checking in your slider puzzle code.What is the total time to solve 100 puzzles, in seconds?
+
+30ish
+
+2) What is the average distance over all the solvable puzzles in your run of 100 puzzles?
+
+11.4
+
+3) What is a slider puzzle at a maximum distance from 12345678_?
+
+64785_321
+8672543_1
+
+4) What is the distance for the puzzle you found in item 3?  We'll refer to this number as maxDist
+
+31
+
+5) For each value between 0 and maxDist, inclusive, find the number of puzzles at that distance from 12345678_.  This sequence of maxDist+1 numbers is known as a distribution.  What is your distribution?
+
+6) Graph the distribution (bar or line graph) you found in item 5 using Excel, a python package, or some other software.  You do not need to have your script generate the graph automatically (ie. you can copy or manually enter the values to your graphing program or package), but if you do, please let me know the package or library you used.  What is the graph of your distribution?
+
+probably bell curve
+
+7) Adapt your code to be able to handle 4 x 4 slider puzzles.  Represent the squares of the 4x4 slider puzzle by A-O (capital letter o) or a-o.  Note that the search space for this problem is too big so there are many problems your script won't handle.  What depth of slider puzzle can your code reliably handle?  We'll be speeding this up over the course of the next several weeks.
+

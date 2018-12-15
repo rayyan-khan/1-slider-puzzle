@@ -1,0 +1,11 @@
+a_cjhlgbfndoikme :  47 TIME: 288.156 sec SEQUENCE: [1, 0, 4, 5, 9, 8, 4, 5, 9, 10, 6, 7, 3, 2, 6, 5, 9, 13, 14, 15, 11, 10, 14, 13, 12, 8, 4, 0, 1, 2, 6, 10, 9, 8, 4, 5, 6, 7, 11, 10, 9, 13, 14, 10, 6, 2, 1, 0]
+_efdjchbkmignlao :  48 TIME: 217.502 sec SEQUENCE: [0, 4, 8, 9, 13, 12, 8, 9, 10, 14, 13, 12, 8, 9, 10, 6, 5, 4, 0, 1, 2, 3, 7, 6, 5, 4, 8, 9, 10, 6, 5, 1, 2, 3, 7, 11, 10, 6, 5, 4, 8, 9, 5, 1, 0, 4, 5, 1, 0]
+hkidlanbj_ocgfem :  49 TIME: 45.318 sec SEQUENCE: [9, 5, 1, 2, 3, 7, 11, 10, 6, 5, 1, 2, 3, 7, 6, 10, 14, 13, 12, 8, 4, 5, 9, 13, 12, 8, 4, 0, 1, 5, 9, 10, 14, 15, 11, 10, 6, 5, 9, 13, 14, 10, 11, 7, 6, 10, 9, 8, 4, 0]
+_kbjfeclinmghaod :  50 TIME: 138.028 sec SEQUENCE: [0, 4, 5, 1, 2, 6, 7, 11, 15, 14, 10, 9, 13, 14, 10, 6, 5, 9, 8, 12, 13, 9, 10, 11, 7, 3, 2, 1, 5, 4, 0, 1, 5, 4, 8, 9, 10, 6, 7, 11, 10, 6, 5, 9, 13, 12, 8, 4, 5, 1, 0]
+cmigao_lekfjdnhb :  51 TIME: 297.75 sec SEQUENCE: [6, 5, 9, 10, 6, 5, 9, 13, 14, 10, 11, 15, 14, 10, 6, 7, 11, 10, 6, 5, 1, 0, 4, 8, 12, 13, 9, 5, 4, 8, 9, 10, 6, 2, 1, 5, 6, 7, 3, 2, 6, 10, 14, 13, 9, 8, 12, 13, 9, 5, 1, 0]
+Traceback (most recent call last):
+  File "C:/Users/rayya/Desktop/AI/1 slider puzzle/slider lab 5 A-star improvements/AstarMNHT.py", line 112, in <module>
+    printList = [n.find('_') for n in solve(pzl.strip())]
+  File "C:/Users/rayya/Desktop/AI/1 slider puzzle/slider lab 5 A-star improvements/AstarMNHT.py", line 97, in solve
+    closedSet[pzl] = lvl
+MemoryError
